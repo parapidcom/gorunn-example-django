@@ -1,0 +1,5 @@
+.venv/
+.idea/
+.vscode/
+.aider*
+mydjango/__pycache__/
